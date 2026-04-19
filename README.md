@@ -4,10 +4,10 @@ This repository serves as the centralized hub for public documentation, legal po
 
 ## ⚖️ Privacy Policies
 
-| Project                                   | Last Updated |
-|:------------------------------------------|:-------------|
-| [**Pudú Watchface**](./pudu-watchface.md) | 2026-04-19   |
-| [**RaMA App**](./rama-app.md)             | 2025-11-19   |
+| Project                                                    | Last Updated |
+|:-----------------------------------------------------------|:-------------|
+| [**Pudú Watchface**](./privacy-policies/pudu-watchface.md) | 2026-04-19   |
+| [**RaMA App**](./privacy-policies/rama-app.md)             | 2025-11-19   |
 
 ---
 *Maintained by Gabriel - Software Developer & Mobile Specialist*
